@@ -14,7 +14,6 @@ I’m an engineering student passionate about programming and tackling new chall
 
 - **Python**
 - **MATLAB**
-- **Learning C Language**
 - **Systems Control & Optimization**
 
 ---
