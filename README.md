@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I’m an engineering student passionate about programming and tackling new challenges, especially in the field of optimization and control systems. I love exploring new technologies and applying them to real-world engineering problems.
+I’m an engineering student passionate about programming and tackling new challenges, especially in the field of optimization, control systems and robotics. I love exploring new technologies and applying them to real-world engineering problems.
 
 ---
 
