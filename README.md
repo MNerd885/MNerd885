@@ -25,12 +25,6 @@ I’m an engineering student passionate about programming and tackling new chall
 
 ---
 
-## 📈 GitHub Stats
-
-![MNerd885's GitHub stats](https://github-readme-stats.vercel.app/api?username=MNerd885&show_icons=true&theme=radical)
-
----
-
 <!--
 **MNerd885/MNerd885** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
