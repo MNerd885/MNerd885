@@ -14,11 +14,11 @@ I’m an engineering student passionate about programming and tackling new chall
 
 - **Python**
 - **MATLAB**
-- **Systems Control & Optimization**
+- **Control systems, Machine Learning & Optimization**
 
 ---
 
-## 🎸 Outside of Coding
+## 🎸 Outside of the Engineering world
 
 - 🎸 Guitarist for passion  
 - 📚 Devourer of books
